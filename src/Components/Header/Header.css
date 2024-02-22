@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+.headerDiv{
+    background-color: #0e2142;
+}
+
+.header{
+    cursor: pointer;
+    background-color: #0e2142;
+    color: white;
+    z-index: 100;
+    font-family: "Anta", sans-serif;
+    /* font-weight: 300; */
+    font-style: normal;
+    letter-spacing: 1px;
+}
+
+.headerHrLine{
+    height: 2px;
+    border-radius: 360px;
+    width: 95%;
+}
